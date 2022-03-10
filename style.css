@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+body {
+  background: radial-gradient(
+    circle,
+    rgba(162, 0, 255, 1) 0%,
+    rgba(0, 255, 247, 1) 100%
+  );
+  font-family: Pacifico;
+  text-align: center;
+  padding: 100px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Pacifico;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+    background-color: radial-gradient(
+        circle,
+        rgba(162, 0, 255, 1) 0%,
+        rgba(0, 255, 247, 1) 100%
+}
+
+#origami{
+background-color: radial-gradient(
+        circle,
+        rgba(162, 0, 255, 1) 0%,
+        rgba(0, 255, 247, 1) 100%
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
